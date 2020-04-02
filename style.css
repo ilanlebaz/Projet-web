@@ -1,0 +1,44 @@
+.vp-section {
+
+	background-color: aqua;
+	width: 100vw;
+	height: 80vh;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.big-title {
+    font-size: 50px;
+}
+
+.small-title {
+font-family: 'Righteous', cursive;
+}
+
+.mt-10 {
+    margin-top: 10rem !important;
+    margin-bottom: 10rem !important;
+}
+
+.mt-11 {
+    margin-top: 10rem !important;
+    margin-bottom: 10rem !important;
+}
+
+.carousel-inner  {
+    height: 700px;
+}
+
+.para {
+    font-size: 50px;
+    font-family: 'Righteous', cursive;
+}
+
+.card-text {
+  font-size: 50px;
+    font-family: 'Righteous', cursive;  
+}
